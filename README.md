@@ -1,11 +1,11 @@
-
-# Bonjour, je suis Houda LAMRINI 
+::: {align="center"}
+# Bonjour, je suis Houda LAMRINI 👋
 
 ### Étudiante en Master Big Data et Systèmes Intelligents
 
 Intéressée par la **Data Science**, l'**Intelligence Artificielle** et
 les technologies du Big Data.
-::: Formation
+:::🎓 Formation
 - 2025 -- 2027 | Master Big Data et Systèmes Intelligents --- En
   cours
   Faculté des Sciences Dhar El Mehraz, Fès
@@ -17,14 +17,14 @@ les technologies du Big Data.
 - 2022 | Baccalauréat Sciences Mathématiques (B), option
   française
   Lycée Bnou El Haytam, Fès
-::: Expérience professionnelle
+💼 Expérience professionnelle
 Stage de formation --- AMICLUB CARROSSERIE
 Juillet 2026 -- Septembre 2026
 - Support technique aux utilisateurs.
 - Création et gestion de bases de données.
 - Participation à l'analyse et à la modélisation des besoins avec
   l'équipe informatique.
-::: Projets
+🚀 Projets
 Prédiction de la qualité de l'air
 Modélisation du niveau de PM2.5 dans quatre villes marocaines à l'aide
 du Machine Learning et du Federated Learning.
@@ -44,7 +44,7 @@ Conception et réalisation d'une application web de gestion des offres
 d'emploi.
 
 Technologies : PHP, MySQL, JavaScript, HTML, CSS, Bootstrap.
-::: Compétences techniques
+🧰 Compétences techniques
   Domaine                             Technologies et outils
   Programmation                       Python, Java, C, PHP, SQL,
 JavaScript, HTML/CSS
@@ -60,17 +60,17 @@ Scikit-learn, Pandas, NumPy
 
   Outils                              Git, GitHub, Jupyter, VS Code
 Business Intelligence               Power BI
-::: Compétences professionnelles
+🤝 Compétences professionnelles
 - Esprit d'analyse et résolution de problèmes
 - Organisation et rigueur
 - Travail en équipe
 - Adaptabilité
 - Apprentissage continu
-::: Langues
+🌍 Langues
 - Arabe : langue maternelle
 - Français : courant
 - Anglais : courant
-::: Centres d'intérêt
+🌱 Centres d'intérêt
 - Analyse et visualisation des données
 - Nouvelles technologies et intelligence artificielle
 - Lecture et apprentissage continu
