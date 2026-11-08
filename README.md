@@ -1,5 +1,5 @@
-::: {align="center"}
-# Bonjour, je suis Houda LAMRINI 👋
+
+# Bonjour, je suis Houda LAMRINI 
 
 ### Étudiante en Master Big Data et Systèmes Intelligents
 
